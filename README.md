@@ -1,1 +1,1 @@
-# face-recognition
+# javascript webcam-face-recognition
